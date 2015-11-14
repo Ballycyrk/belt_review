@@ -1,0 +1,17 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: monaco;
+}
+
+#container {
+  width: 970px;
+  margin: 0px auto;
+  text-align: center;
+  vertical-align: top;
+}
+
+img {
+  width: 800px;
+  height: auto;
+}
